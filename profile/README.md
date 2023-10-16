@@ -14,4 +14,4 @@ You can go to [this repository](https://github.com/PureReader/PureReader-Starter
 
 轻享阅，让阅读变得更简单。
 
-你可以前往 [这个存储库](https://github.com/PureReader/PureReader-Starter) 来了解轻享阅软件的介绍、版本发布、相关功能通知。
+你可以前往 [这个存储库](https://github.com/PureReader/PureReader-Starter/bolb/main/README-zh-CN.md) 来了解轻享阅软件的介绍、版本发布、相关功能通知。
