@@ -1,12 +1,17 @@
 ## Hi there 👋
 
-<!--
+This is an organization under the [HighCapable](https://github.com/HighCapable) organization.
 
-**Here are some ideas to get you started:**
+Welcome to the organization of PureReader software.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+PureReader, make reading easier.
+
+You can go to [this repository](https://github.com/PureReader/PureReader-Starter) to learn about the introduction, version release, and related function notifications of PureReader software.
+
+这是一个 [HighCapable](https://github.com/HighCapable) 旗下的组织。
+
+欢迎来到轻享阅软件的组织。
+
+轻享阅，让阅读变得更简单。
+
+你可以前往 [这个存储库](https://github.com/PureReader/PureReader-Starter) 来了解轻享阅软件的介绍、版本发布、相关功能通知。
